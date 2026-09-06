@@ -1,0 +1,10 @@
+{
+  "name": "Дневник парковок",
+  "description": "Автоматическое ведение дневника длительных остановок автомобиля на основе GPS смартфона",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
